@@ -1,0 +1,1001 @@
+Num,Module,Bug,Date
+1,Production,Mineur,1/1/2023
+2,Inventaire,Mineur,1/2/2023
+3,Production,Mineur,1/2/2023
+4,Ressources Humaines,Mineur,1/2/2023
+5,Production,Majeur,1/2/2023
+6,Ressources Humaines,Mineur,1/4/2023
+7,Ventes,Mineur,1/6/2023
+8,Ressources Humaines,Mineur,1/6/2023
+9,Comptabilit‚,Majeur,1/7/2023
+10,Production,Mineur,1/7/2023
+11,Ventes,Mineur,1/8/2023
+12,Production,Majeur,1/11/2023
+13,Ventes,Majeur,1/11/2023
+14,Ressources Humaines,Majeur,1/12/2023
+15,Inventaire,Mineur,1/12/2023
+16,Inventaire,Mineur,1/12/2023
+17,Comptabilit‚,Majeur,1/12/2023
+18,Ventes,Majeur,1/12/2023
+19,Ventes,Critique,1/13/2023
+20,Comptabilit‚,Mineur,1/13/2023
+21,Ressources Humaines,Critique,1/13/2023
+22,Comptabilit‚,Critique,1/14/2023
+23,Ventes,Critique,1/14/2023
+24,Inventaire,Majeur,1/15/2023
+25,Inventaire,Critique,1/16/2023
+26,Ventes,Majeur,1/17/2023
+27,Ventes,Majeur,1/17/2023
+28,Ressources Humaines,Mineur,1/17/2023
+29,Ventes,Mineur,1/17/2023
+30,Comptabilit‚,Critique,1/17/2023
+31,Production,Majeur,1/17/2023
+32,Inventaire,Critique,1/17/2023
+33,Comptabilit‚,Majeur,1/18/2023
+34,Ventes,Majeur,1/18/2023
+35,Ressources Humaines,Majeur,1/18/2023
+36,Comptabilit‚,Majeur,1/19/2023
+37,Ventes,Critique,1/19/2023
+38,Comptabilit‚,Mineur,1/19/2023
+39,Ventes,Majeur,1/19/2023
+40,Production,Majeur,1/19/2023
+41,Production,Mineur,1/20/2023
+42,Ressources Humaines,Majeur,1/20/2023
+43,Inventaire,Majeur,1/20/2023
+44,Production,Critique,1/21/2023
+45,Inventaire,Majeur,1/21/2023
+46,Production,Majeur,1/21/2023
+47,Ventes,Critique,1/22/2023
+48,Comptabilit‚,Critique,1/22/2023
+49,Ressources Humaines,Critique,1/23/2023
+50,Ventes,Majeur,1/23/2023
+51,Ventes,Mineur,1/23/2023
+52,Inventaire,Critique,1/24/2023
+53,Inventaire,Mineur,1/24/2023
+54,Ventes,Critique,1/24/2023
+55,Ressources Humaines,Critique,1/24/2023
+56,Ressources Humaines,Critique,1/24/2023
+57,Ventes,Mineur,1/24/2023
+58,Production,Mineur,1/25/2023
+59,Ressources Humaines,Critique,1/26/2023
+60,Ventes,Majeur,1/26/2023
+61,Production,Majeur,1/26/2023
+62,Production,Majeur,1/26/2023
+63,Production,Critique,1/26/2023
+64,Ventes,Mineur,1/26/2023
+65,Inventaire,Mineur,1/27/2023
+66,Ressources Humaines,Majeur,1/27/2023
+67,Ressources Humaines,Critique,1/28/2023
+68,Comptabilit‚,Mineur,1/28/2023
+69,Comptabilit‚,Critique,1/28/2023
+70,Ventes,Mineur,1/28/2023
+71,Production,Majeur,1/29/2023
+72,Inventaire,Mineur,1/29/2023
+73,Inventaire,Majeur,1/29/2023
+74,Inventaire,Majeur,1/29/2023
+75,Comptabilit‚,Mineur,1/30/2023
+76,Comptabilit‚,Critique,1/30/2023
+77,Ressources Humaines,Critique,1/30/2023
+78,Production,Majeur,1/30/2023
+79,Ventes,Mineur,1/30/2023
+80,Ventes,Mineur,1/30/2023
+81,Comptabilit‚,Mineur,1/31/2023
+82,Ventes,Critique,2/1/2023
+83,Comptabilit‚,Mineur,2/1/2023
+84,Ventes,Majeur,2/1/2023
+85,Ressources Humaines,Critique,2/1/2023
+86,Inventaire,Mineur,2/2/2023
+87,Inventaire,Mineur,2/2/2023
+88,Production,Mineur,2/2/2023
+89,Production,Mineur,2/2/2023
+90,Ventes,Critique,2/4/2023
+91,Ressources Humaines,Majeur,2/4/2023
+92,Ventes,Majeur,2/4/2023
+93,Comptabilit‚,Critique,2/5/2023
+94,Ventes,Critique,2/5/2023
+95,Ventes,Mineur,2/5/2023
+96,Ressources Humaines,Majeur,2/5/2023
+97,Inventaire,Majeur,2/6/2023
+98,Ressources Humaines,Mineur,2/7/2023
+99,Ventes,Mineur,2/8/2023
+100,Production,Mineur,2/8/2023
+101,Production,Majeur,2/9/2023
+102,Comptabilit‚,Critique,2/10/2023
+103,Ventes,Majeur,2/10/2023
+104,Inventaire,Critique,2/10/2023
+105,Inventaire,Critique,2/11/2023
+106,Ventes,Critique,2/11/2023
+107,Inventaire,Critique,2/11/2023
+108,Inventaire,Majeur,2/12/2023
+109,Production,Majeur,2/12/2023
+110,Ressources Humaines,Mineur,2/13/2023
+111,Inventaire,Critique,2/13/2023
+112,Comptabilit‚,Mineur,2/13/2023
+113,Ventes,Critique,2/13/2023
+114,Inventaire,Critique,2/14/2023
+115,Ressources Humaines,Critique,2/14/2023
+116,Ventes,Mineur,2/15/2023
+117,Inventaire,Critique,2/15/2023
+118,Inventaire,Mineur,2/15/2023
+119,Ventes,Critique,2/16/2023
+120,Comptabilit‚,Critique,2/16/2023
+121,Production,Mineur,2/16/2023
+122,Ventes,Majeur,2/16/2023
+123,Ressources Humaines,Critique,2/17/2023
+124,Ressources Humaines,Majeur,2/17/2023
+125,Ventes,Critique,2/17/2023
+126,Ventes,Majeur,2/17/2023
+127,Comptabilit‚,Critique,2/18/2023
+128,Production,Critique,2/19/2023
+129,Production,Majeur,2/22/2023
+130,Inventaire,Critique,2/23/2023
+131,Comptabilit‚,Majeur,2/23/2023
+132,Ressources Humaines,Majeur,2/23/2023
+133,Inventaire,Mineur,2/24/2023
+134,Production,Majeur,2/24/2023
+135,Ressources Humaines,Majeur,2/24/2023
+136,Ventes,Critique,2/24/2023
+137,Ventes,Critique,2/24/2023
+138,Comptabilit‚,Critique,2/24/2023
+139,Ressources Humaines,Majeur,2/25/2023
+140,Ressources Humaines,Critique,2/25/2023
+141,Production,Mineur,2/25/2023
+142,Comptabilit‚,Critique,2/25/2023
+143,Production,Mineur,2/26/2023
+144,Inventaire,Critique,2/26/2023
+145,Ventes,Mineur,2/27/2023
+146,Inventaire,Majeur,2/27/2023
+147,Inventaire,Critique,2/27/2023
+148,Ressources Humaines,Mineur,2/28/2023
+149,Ressources Humaines,Majeur,2/28/2023
+150,Ressources Humaines,Mineur,2/28/2023
+151,Ventes,Critique,3/1/2023
+152,Comptabilit‚,Majeur,3/1/2023
+153,Ventes,Critique,3/1/2023
+154,Comptabilit‚,Mineur,3/2/2023
+155,Comptabilit‚,Mineur,3/4/2023
+156,Production,Majeur,3/5/2023
+157,Ressources Humaines,Critique,3/5/2023
+158,Production,Critique,3/5/2023
+159,Inventaire,Critique,3/5/2023
+160,Production,Critique,3/6/2023
+161,Comptabilit‚,Majeur,3/6/2023
+162,Comptabilit‚,Majeur,3/6/2023
+163,Inventaire,Critique,3/7/2023
+164,Ressources Humaines,Majeur,3/7/2023
+165,Comptabilit‚,Critique,3/7/2023
+166,Comptabilit‚,Critique,3/7/2023
+167,Comptabilit‚,Critique,3/8/2023
+168,Production,Majeur,3/9/2023
+169,Ventes,Critique,3/9/2023
+170,Ventes,Mineur,3/9/2023
+171,Ressources Humaines,Mineur,3/9/2023
+172,Production,Critique,3/9/2023
+173,Inventaire,Majeur,3/11/2023
+174,Inventaire,Mineur,3/11/2023
+175,Ressources Humaines,Mineur,3/12/2023
+176,Comptabilit‚,Critique,3/13/2023
+177,Comptabilit‚,Majeur,3/14/2023
+178,Ventes,Mineur,3/14/2023
+179,Ventes,Majeur,3/14/2023
+180,Comptabilit‚,Critique,3/14/2023
+181,Comptabilit‚,Critique,3/15/2023
+182,Comptabilit‚,Majeur,3/15/2023
+183,Production,Critique,3/16/2023
+184,Production,Majeur,3/16/2023
+185,Ressources Humaines,Mineur,3/17/2023
+186,Inventaire,Mineur,3/17/2023
+187,Inventaire,Majeur,3/17/2023
+188,Comptabilit‚,Mineur,3/17/2023
+189,Ventes,Mineur,3/17/2023
+190,Production,Majeur,3/18/2023
+191,Ressources Humaines,Mineur,3/18/2023
+192,Production,Mineur,3/18/2023
+193,Ventes,Mineur,3/18/2023
+194,Ressources Humaines,Majeur,3/18/2023
+195,Ventes,Mineur,3/19/2023
+196,Ressources Humaines,Majeur,3/20/2023
+197,Ventes,Critique,3/20/2023
+198,Ressources Humaines,Critique,3/21/2023
+199,Ventes,Critique,3/21/2023
+200,Ressources Humaines,Majeur,3/21/2023
+201,Ressources Humaines,Critique,3/21/2023
+202,Production,Majeur,3/21/2023
+203,Comptabilit‚,Mineur,3/22/2023
+204,Inventaire,Critique,3/22/2023
+205,Comptabilit‚,Critique,3/22/2023
+206,Ventes,Majeur,3/22/2023
+207,Comptabilit‚,Critique,3/22/2023
+208,Ventes,Mineur,3/23/2023
+209,Inventaire,Critique,3/24/2023
+210,Production,Majeur,3/24/2023
+211,Production,Majeur,3/24/2023
+212,Production,Critique,3/25/2023
+213,Comptabilit‚,Mineur,3/25/2023
+214,Production,Critique,3/25/2023
+215,Ventes,Critique,3/26/2023
+216,Ventes,Mineur,3/26/2023
+217,Inventaire,Mineur,3/26/2023
+218,Inventaire,Mineur,3/26/2023
+219,Ressources Humaines,Majeur,3/27/2023
+220,Ventes,Mineur,3/27/2023
+221,Production,Critique,3/27/2023
+222,Ressources Humaines,Mineur,3/28/2023
+223,Ressources Humaines,Majeur,3/28/2023
+224,Comptabilit‚,Mineur,3/28/2023
+225,Inventaire,Majeur,3/28/2023
+226,Ressources Humaines,Mineur,3/28/2023
+227,Production,Critique,3/29/2023
+228,Comptabilit‚,Critique,3/29/2023
+229,Ressources Humaines,Critique,3/29/2023
+230,Ventes,Majeur,3/29/2023
+231,Inventaire,Critique,3/29/2023
+232,Comptabilit‚,Mineur,3/29/2023
+233,Comptabilit‚,Mineur,3/30/2023
+234,Ventes,Critique,3/30/2023
+235,Ventes,Critique,3/31/2023
+236,Inventaire,Critique,3/31/2023
+237,Comptabilit‚,Majeur,3/31/2023
+238,Ventes,Mineur,3/31/2023
+239,Comptabilit‚,Majeur,3/31/2023
+240,Ventes,Majeur,4/1/2023
+241,Comptabilit‚,Mineur,4/1/2023
+242,Production,Critique,4/2/2023
+243,Ressources Humaines,Critique,4/2/2023
+244,Comptabilit‚,Mineur,4/2/2023
+245,Ressources Humaines,Critique,4/3/2023
+246,Ressources Humaines,Mineur,4/4/2023
+247,Production,Majeur,4/4/2023
+248,Inventaire,Mineur,4/4/2023
+249,Comptabilit‚,Mineur,4/5/2023
+250,Ressources Humaines,Critique,4/5/2023
+251,Comptabilit‚,Critique,4/5/2023
+252,Production,Mineur,4/5/2023
+253,Inventaire,Critique,4/6/2023
+254,Comptabilit‚,Mineur,4/6/2023
+255,Comptabilit‚,Critique,4/7/2023
+256,Comptabilit‚,Critique,4/7/2023
+257,Ventes,Critique,4/8/2023
+258,Ressources Humaines,Majeur,4/8/2023
+259,Ressources Humaines,Critique,4/9/2023
+260,Ventes,Critique,4/9/2023
+261,Ventes,Mineur,4/9/2023
+262,Ressources Humaines,Majeur,4/9/2023
+263,Production,Majeur,4/10/2023
+264,Production,Mineur,4/11/2023
+265,Comptabilit‚,Critique,4/11/2023
+266,Production,Majeur,4/11/2023
+267,Ressources Humaines,Majeur,4/11/2023
+268,Production,Mineur,4/12/2023
+269,Inventaire,Majeur,4/12/2023
+270,Inventaire,Majeur,4/12/2023
+271,Ventes,Majeur,4/12/2023
+272,Inventaire,Critique,4/12/2023
+273,Inventaire,Mineur,4/12/2023
+274,Ventes,Majeur,4/13/2023
+275,Comptabilit‚,Critique,4/14/2023
+276,Inventaire,Mineur,4/14/2023
+277,Inventaire,Critique,4/15/2023
+278,Inventaire,Critique,4/15/2023
+279,Ressources Humaines,Mineur,4/15/2023
+280,Ventes,Mineur,4/17/2023
+281,Ressources Humaines,Critique,4/17/2023
+282,Comptabilit‚,Critique,4/17/2023
+283,Production,Majeur,4/17/2023
+284,Ventes,Critique,4/18/2023
+285,Ressources Humaines,Majeur,4/19/2023
+286,Ressources Humaines,Critique,4/19/2023
+287,Production,Mineur,4/19/2023
+288,Ressources Humaines,Mineur,4/20/2023
+289,Inventaire,Majeur,4/22/2023
+290,Ventes,Critique,4/23/2023
+291,Ressources Humaines,Mineur,4/23/2023
+292,Ventes,Majeur,4/23/2023
+293,Ressources Humaines,Critique,4/25/2023
+294,Inventaire,Majeur,4/25/2023
+295,Ventes,Critique,4/25/2023
+296,Inventaire,Majeur,4/25/2023
+297,Ventes,Majeur,4/25/2023
+298,Comptabilit‚,Critique,4/25/2023
+299,Comptabilit‚,Majeur,4/26/2023
+300,Comptabilit‚,Majeur,4/26/2023
+301,Ventes,Critique,4/26/2023
+302,Inventaire,Mineur,4/26/2023
+303,Ressources Humaines,Mineur,4/26/2023
+304,Comptabilit‚,Critique,4/27/2023
+305,Inventaire,Critique,4/27/2023
+306,Ressources Humaines,Majeur,4/28/2023
+307,Ventes,Critique,4/28/2023
+308,Inventaire,Majeur,4/28/2023
+309,Ventes,Majeur,4/29/2023
+310,Ressources Humaines,Majeur,4/29/2023
+311,Production,Majeur,4/29/2023
+312,Comptabilit‚,Majeur,4/30/2023
+313,Ventes,Critique,4/30/2023
+314,Ressources Humaines,Majeur,4/30/2023
+315,Ressources Humaines,Majeur,4/30/2023
+316,Production,Critique,4/30/2023
+317,Ventes,Mineur,4/30/2023
+318,Comptabilit‚,Majeur,4/30/2023
+319,Comptabilit‚,Critique,4/30/2023
+320,Comptabilit‚,Critique,5/1/2023
+321,Comptabilit‚,Majeur,5/2/2023
+322,Ventes,Critique,5/2/2023
+323,Ventes,Critique,5/2/2023
+324,Ressources Humaines,Mineur,5/2/2023
+325,Production,Majeur,5/2/2023
+326,Comptabilit‚,Majeur,5/2/2023
+327,Production,Mineur,5/2/2023
+328,Inventaire,Mineur,5/3/2023
+329,Ressources Humaines,Mineur,5/3/2023
+330,Comptabilit‚,Critique,5/3/2023
+331,Production,Critique,5/4/2023
+332,Production,Majeur,5/4/2023
+333,Ventes,Majeur,5/4/2023
+334,Production,Majeur,5/4/2023
+335,Comptabilit‚,Mineur,5/4/2023
+336,Ventes,Majeur,5/5/2023
+337,Ressources Humaines,Mineur,5/5/2023
+338,Inventaire,Mineur,5/5/2023
+339,Inventaire,Mineur,5/5/2023
+340,Ressources Humaines,Mineur,5/6/2023
+341,Ressources Humaines,Mineur,5/6/2023
+342,Production,Critique,5/6/2023
+343,Ventes,Critique,5/7/2023
+344,Inventaire,Majeur,5/7/2023
+345,Comptabilit‚,Mineur,5/7/2023
+346,Inventaire,Critique,5/7/2023
+347,Production,Mineur,5/8/2023
+348,Production,Majeur,5/8/2023
+349,Inventaire,Mineur,5/8/2023
+350,Production,Majeur,5/8/2023
+351,Inventaire,Critique,5/9/2023
+352,Ressources Humaines,Majeur,5/9/2023
+353,Inventaire,Mineur,5/10/2023
+354,Ressources Humaines,Majeur,5/10/2023
+355,Ventes,Critique,5/10/2023
+356,Ventes,Majeur,5/11/2023
+357,Comptabilit‚,Critique,5/11/2023
+358,Comptabilit‚,Mineur,5/11/2023
+359,Ventes,Majeur,5/12/2023
+360,Production,Mineur,5/12/2023
+361,Ressources Humaines,Critique,5/12/2023
+362,Comptabilit‚,Mineur,5/13/2023
+363,Inventaire,Majeur,5/13/2023
+364,Comptabilit‚,Mineur,5/13/2023
+365,Inventaire,Critique,5/13/2023
+366,Ressources Humaines,Mineur,5/14/2023
+367,Ressources Humaines,Mineur,5/14/2023
+368,Ressources Humaines,Mineur,5/14/2023
+369,Inventaire,Mineur,5/14/2023
+370,Inventaire,Critique,5/14/2023
+371,Production,Majeur,5/15/2023
+372,Ventes,Critique,5/16/2023
+373,Inventaire,Majeur,5/16/2023
+374,Production,Critique,5/17/2023
+375,Comptabilit‚,Critique,5/17/2023
+376,Inventaire,Critique,5/17/2023
+377,Comptabilit‚,Majeur,5/18/2023
+378,Inventaire,Majeur,5/18/2023
+379,Comptabilit‚,Mineur,5/18/2023
+380,Ressources Humaines,Majeur,5/18/2023
+381,Production,Majeur,5/19/2023
+382,Comptabilit‚,Majeur,5/19/2023
+383,Production,Critique,5/20/2023
+384,Inventaire,Mineur,5/20/2023
+385,Production,Critique,5/20/2023
+386,Production,Critique,5/20/2023
+387,Ventes,Mineur,5/21/2023
+388,Comptabilit‚,Critique,5/21/2023
+389,Comptabilit‚,Mineur,5/21/2023
+390,Production,Mineur,5/21/2023
+391,Production,Mineur,5/22/2023
+392,Ventes,Critique,5/22/2023
+393,Ventes,Mineur,5/22/2023
+394,Ventes,Majeur,5/22/2023
+395,Ressources Humaines,Critique,5/22/2023
+396,Ventes,Mineur,5/23/2023
+397,Ventes,Critique,5/23/2023
+398,Ventes,Critique,5/23/2023
+399,Inventaire,Mineur,5/23/2023
+400,Ventes,Critique,5/23/2023
+401,Comptabilit‚,Majeur,5/24/2023
+402,Ressources Humaines,Critique,5/25/2023
+403,Comptabilit‚,Majeur,5/26/2023
+404,Ressources Humaines,Mineur,5/26/2023
+405,Ressources Humaines,Critique,5/26/2023
+406,Ressources Humaines,Mineur,5/27/2023
+407,Inventaire,Majeur,5/27/2023
+408,Production,Majeur,5/27/2023
+409,Comptabilit‚,Critique,5/27/2023
+410,Ressources Humaines,Majeur,5/27/2023
+411,Comptabilit‚,Critique,5/28/2023
+412,Ventes,Mineur,5/29/2023
+413,Ressources Humaines,Majeur,5/30/2023
+414,Production,Critique,5/30/2023
+415,Ressources Humaines,Critique,5/30/2023
+416,Production,Critique,5/30/2023
+417,Inventaire,Majeur,5/31/2023
+418,Inventaire,Majeur,5/31/2023
+419,Ventes,Mineur,5/31/2023
+420,Inventaire,Majeur,5/31/2023
+421,Production,Mineur,5/31/2023
+422,Ressources Humaines,Majeur,5/31/2023
+423,Comptabilit‚,Majeur,5/31/2023
+424,Ventes,Majeur,6/1/2023
+425,Production,Critique,6/1/2023
+426,Inventaire,Mineur,6/1/2023
+427,Production,Critique,6/2/2023
+428,Production,Critique,6/2/2023
+429,Ventes,Critique,6/2/2023
+430,Inventaire,Majeur,6/2/2023
+431,Production,Critique,6/2/2023
+432,Production,Majeur,6/2/2023
+433,Ventes,Majeur,6/2/2023
+434,Production,Majeur,6/3/2023
+435,Production,Mineur,6/4/2023
+436,Ressources Humaines,Majeur,6/4/2023
+437,Inventaire,Majeur,6/5/2023
+438,Ressources Humaines,Majeur,6/5/2023
+439,Ventes,Critique,6/5/2023
+440,Production,Critique,6/5/2023
+441,Ventes,Majeur,6/7/2023
+442,Inventaire,Critique,6/7/2023
+443,Comptabilit‚,Majeur,6/8/2023
+444,Ventes,Majeur,6/8/2023
+445,Ressources Humaines,Majeur,6/8/2023
+446,Inventaire,Mineur,6/8/2023
+447,Production,Majeur,6/9/2023
+448,Ressources Humaines,Majeur,6/10/2023
+449,Production,Critique,6/11/2023
+450,Production,Critique,6/11/2023
+451,Comptabilit‚,Mineur,6/11/2023
+452,Ressources Humaines,Majeur,6/12/2023
+453,Comptabilit‚,Mineur,6/12/2023
+454,Ressources Humaines,Critique,6/13/2023
+455,Comptabilit‚,Critique,6/13/2023
+456,Inventaire,Critique,6/13/2023
+457,Inventaire,Majeur,6/15/2023
+458,Inventaire,Critique,6/15/2023
+459,Ventes,Majeur,6/15/2023
+460,Production,Critique,6/15/2023
+461,Inventaire,Critique,6/15/2023
+462,Inventaire,Critique,6/17/2023
+463,Production,Majeur,6/17/2023
+464,Inventaire,Mineur,6/17/2023
+465,Ressources Humaines,Mineur,6/17/2023
+466,Comptabilit‚,Critique,6/17/2023
+467,Ventes,Mineur,6/18/2023
+468,Inventaire,Mineur,6/18/2023
+469,Comptabilit‚,Majeur,6/18/2023
+470,Production,Mineur,6/19/2023
+471,Production,Majeur,6/19/2023
+472,Ventes,Critique,6/19/2023
+473,Production,Critique,6/19/2023
+474,Ressources Humaines,Critique,6/20/2023
+475,Ventes,Majeur,6/20/2023
+476,Inventaire,Critique,6/20/2023
+477,Comptabilit‚,Critique,6/20/2023
+478,Ressources Humaines,Majeur,6/21/2023
+479,Ventes,Critique,6/21/2023
+480,Inventaire,Critique,6/21/2023
+481,Production,Critique,6/22/2023
+482,Production,Critique,6/22/2023
+483,Ressources Humaines,Critique,6/24/2023
+484,Ressources Humaines,Critique,6/25/2023
+485,Ressources Humaines,Majeur,6/26/2023
+486,Ventes,Critique,6/26/2023
+487,Ventes,Majeur,6/26/2023
+488,Production,Majeur,6/27/2023
+489,Ressources Humaines,Majeur,6/27/2023
+490,Comptabilit‚,Mineur,6/27/2023
+491,Ressources Humaines,Mineur,6/29/2023
+492,Ressources Humaines,Mineur,6/29/2023
+493,Production,Critique,6/29/2023
+494,Comptabilit‚,Majeur,6/29/2023
+495,Production,Mineur,6/30/2023
+496,Ressources Humaines,Majeur,6/30/2023
+497,Comptabilit‚,Mineur,6/30/2023
+498,Inventaire,Mineur,6/30/2023
+499,Production,Mineur,7/1/2023
+500,Ventes,Critique,7/1/2023
+501,Inventaire,Majeur,7/1/2023
+502,Ventes,Critique,7/1/2023
+503,Ventes,Critique,7/2/2023
+504,Ventes,Mineur,7/2/2023
+505,Inventaire,Majeur,7/2/2023
+506,Comptabilit‚,Mineur,7/2/2023
+507,Comptabilit‚,Majeur,7/2/2023
+508,Inventaire,Critique,7/3/2023
+509,Production,Critique,7/3/2023
+510,Ressources Humaines,Majeur,7/4/2023
+511,Ressources Humaines,Critique,7/4/2023
+512,Production,Critique,7/4/2023
+513,Production,Mineur,7/5/2023
+514,Ressources Humaines,Majeur,7/5/2023
+515,Ventes,Mineur,7/5/2023
+516,Inventaire,Mineur,7/6/2023
+517,Comptabilit‚,Majeur,7/6/2023
+518,Ressources Humaines,Mineur,7/6/2023
+519,Ressources Humaines,Critique,7/6/2023
+520,Inventaire,Majeur,7/7/2023
+521,Ventes,Mineur,7/8/2023
+522,Inventaire,Critique,7/8/2023
+523,Ventes,Majeur,7/9/2023
+524,Ressources Humaines,Critique,7/9/2023
+525,Comptabilit‚,Critique,7/9/2023
+526,Ventes,Critique,7/9/2023
+527,Inventaire,Mineur,7/10/2023
+528,Inventaire,Critique,7/10/2023
+529,Ventes,Mineur,7/10/2023
+530,Ressources Humaines,Majeur,7/11/2023
+531,Ventes,Critique,7/11/2023
+532,Production,Critique,7/11/2023
+533,Production,Mineur,7/12/2023
+534,Ressources Humaines,Mineur,7/12/2023
+535,Production,Majeur,7/13/2023
+536,Ventes,Critique,7/14/2023
+537,Inventaire,Majeur,7/14/2023
+538,Ventes,Mineur,7/14/2023
+539,Ressources Humaines,Mineur,7/14/2023
+540,Production,Critique,7/15/2023
+541,Ressources Humaines,Mineur,7/15/2023
+542,Inventaire,Majeur,7/15/2023
+543,Comptabilit‚,Majeur,7/16/2023
+544,Comptabilit‚,Mineur,7/16/2023
+545,Production,Mineur,7/16/2023
+546,Ventes,Critique,7/16/2023
+547,Production,Critique,7/16/2023
+548,Ventes,Majeur,7/17/2023
+549,Production,Majeur,7/18/2023
+550,Ventes,Mineur,7/18/2023
+551,Production,Critique,7/18/2023
+552,Production,Mineur,7/19/2023
+553,Comptabilit‚,Mineur,7/20/2023
+554,Inventaire,Mineur,7/20/2023
+555,Ressources Humaines,Critique,7/20/2023
+556,Production,Mineur,7/20/2023
+557,Ressources Humaines,Mineur,7/20/2023
+558,Production,Majeur,7/21/2023
+559,Ressources Humaines,Mineur,7/22/2023
+560,Inventaire,Majeur,7/22/2023
+561,Ventes,Majeur,7/22/2023
+562,Ressources Humaines,Mineur,7/24/2023
+563,Inventaire,Critique,7/24/2023
+564,Inventaire,Majeur,7/25/2023
+565,Ventes,Mineur,7/25/2023
+566,Inventaire,Critique,7/25/2023
+567,Ressources Humaines,Majeur,7/26/2023
+568,Production,Mineur,7/26/2023
+569,Production,Critique,7/26/2023
+570,Production,Critique,7/27/2023
+571,Ventes,Critique,7/27/2023
+572,Ressources Humaines,Majeur,7/27/2023
+573,Ventes,Majeur,7/28/2023
+574,Inventaire,Critique,7/28/2023
+575,Inventaire,Mineur,7/29/2023
+576,Inventaire,Critique,7/29/2023
+577,Inventaire,Majeur,7/29/2023
+578,Ressources Humaines,Majeur,7/29/2023
+579,Comptabilit‚,Majeur,7/29/2023
+580,Ventes,Majeur,7/30/2023
+581,Inventaire,Critique,7/30/2023
+582,Inventaire,Critique,7/30/2023
+583,Ressources Humaines,Majeur,7/31/2023
+584,Ressources Humaines,Mineur,7/31/2023
+585,Ressources Humaines,Critique,7/31/2023
+586,Ventes,Mineur,7/31/2023
+587,Ventes,Mineur,8/1/2023
+588,Inventaire,Critique,8/1/2023
+589,Production,Majeur,8/1/2023
+590,Ressources Humaines,Mineur,8/1/2023
+591,Comptabilit‚,Mineur,8/1/2023
+592,Inventaire,Majeur,8/2/2023
+593,Comptabilit‚,Majeur,8/2/2023
+594,Ventes,Majeur,8/3/2023
+595,Comptabilit‚,Critique,8/3/2023
+596,Production,Critique,8/4/2023
+597,Ressources Humaines,Majeur,8/4/2023
+598,Ressources Humaines,Critique,8/4/2023
+599,Ressources Humaines,Critique,8/4/2023
+600,Comptabilit‚,Majeur,8/4/2023
+601,Ressources Humaines,Mineur,8/4/2023
+602,Ventes,Majeur,8/5/2023
+603,Production,Critique,8/5/2023
+604,Comptabilit‚,Critique,8/5/2023
+605,Ressources Humaines,Critique,8/5/2023
+606,Ventes,Majeur,8/6/2023
+607,Comptabilit‚,Majeur,8/6/2023
+608,Ressources Humaines,Majeur,8/6/2023
+609,Inventaire,Mineur,8/6/2023
+610,Inventaire,Critique,8/7/2023
+611,Ventes,Mineur,8/7/2023
+612,Ressources Humaines,Majeur,8/8/2023
+613,Inventaire,Mineur,8/9/2023
+614,Ventes,Mineur,8/10/2023
+615,Production,Mineur,8/11/2023
+616,Comptabilit‚,Majeur,8/11/2023
+617,Ventes,Critique,8/11/2023
+618,Inventaire,Mineur,8/11/2023
+619,Comptabilit‚,Majeur,8/11/2023
+620,Inventaire,Majeur,8/11/2023
+621,Inventaire,Mineur,8/12/2023
+622,Ressources Humaines,Critique,8/12/2023
+623,Inventaire,Mineur,8/12/2023
+624,Comptabilit‚,Mineur,8/13/2023
+625,Comptabilit‚,Mineur,8/13/2023
+626,Inventaire,Mineur,8/13/2023
+627,Comptabilit‚,Critique,8/14/2023
+628,Inventaire,Majeur,8/15/2023
+629,Ressources Humaines,Mineur,8/15/2023
+630,Inventaire,Mineur,8/15/2023
+631,Ressources Humaines,Majeur,8/15/2023
+632,Ventes,Critique,8/15/2023
+633,Inventaire,Majeur,8/16/2023
+634,Inventaire,Majeur,8/16/2023
+635,Ventes,Critique,8/17/2023
+636,Ressources Humaines,Critique,8/17/2023
+637,Production,Mineur,8/18/2023
+638,Inventaire,Mineur,8/18/2023
+639,Comptabilit‚,Critique,8/18/2023
+640,Inventaire,Critique,8/18/2023
+641,Ventes,Critique,8/18/2023
+642,Production,Critique,8/19/2023
+643,Ressources Humaines,Majeur,8/19/2023
+644,Comptabilit‚,Critique,8/20/2023
+645,Ressources Humaines,Majeur,8/20/2023
+646,Ressources Humaines,Majeur,8/20/2023
+647,Inventaire,Critique,8/20/2023
+648,Inventaire,Majeur,8/21/2023
+649,Ventes,Majeur,8/21/2023
+650,Comptabilit‚,Majeur,8/21/2023
+651,Inventaire,Majeur,8/21/2023
+652,Ressources Humaines,Majeur,8/21/2023
+653,Ventes,Majeur,8/22/2023
+654,Production,Critique,8/22/2023
+655,Ventes,Critique,8/23/2023
+656,Ressources Humaines,Majeur,8/23/2023
+657,Inventaire,Majeur,8/23/2023
+658,Comptabilit‚,Critique,8/23/2023
+659,Ventes,Mineur,8/24/2023
+660,Ventes,Critique,8/24/2023
+661,Ventes,Mineur,8/24/2023
+662,Comptabilit‚,Majeur,8/25/2023
+663,Production,Majeur,8/25/2023
+664,Ressources Humaines,Majeur,8/27/2023
+665,Production,Critique,8/27/2023
+666,Ressources Humaines,Majeur,8/28/2023
+667,Production,Critique,8/28/2023
+668,Comptabilit‚,Mineur,8/28/2023
+669,Comptabilit‚,Mineur,8/28/2023
+670,Inventaire,Critique,8/29/2023
+671,Production,Majeur,8/29/2023
+672,Inventaire,Mineur,8/29/2023
+673,Ressources Humaines,Mineur,8/29/2023
+674,Comptabilit‚,Mineur,8/29/2023
+675,Ressources Humaines,Mineur,8/29/2023
+676,Ressources Humaines,Mineur,8/29/2023
+677,Production,Critique,8/29/2023
+678,Ressources Humaines,Mineur,8/30/2023
+679,Ventes,Majeur,8/31/2023
+680,Ressources Humaines,Majeur,8/31/2023
+681,Ressources Humaines,Critique,8/31/2023
+682,Production,Majeur,8/31/2023
+683,Ressources Humaines,Critique,9/1/2023
+684,Comptabilit‚,Critique,9/1/2023
+685,Production,Critique,9/1/2023
+686,Production,Majeur,9/1/2023
+687,Production,Majeur,9/2/2023
+688,Ressources Humaines,Critique,9/2/2023
+689,Inventaire,Majeur,9/2/2023
+690,Ventes,Majeur,9/2/2023
+691,Production,Mineur,9/2/2023
+692,Production,Mineur,9/3/2023
+693,Inventaire,Mineur,9/3/2023
+694,Production,Critique,9/3/2023
+695,Ventes,Majeur,9/4/2023
+696,Production,Critique,9/4/2023
+697,Inventaire,Mineur,9/4/2023
+698,Production,Majeur,9/4/2023
+699,Ventes,Majeur,9/4/2023
+700,Production,Majeur,9/4/2023
+701,Comptabilit‚,Mineur,9/4/2023
+702,Comptabilit‚,Majeur,9/6/2023
+703,Production,Critique,9/6/2023
+704,Inventaire,Majeur,9/6/2023
+705,Ventes,Mineur,9/7/2023
+706,Comptabilit‚,Critique,9/8/2023
+707,Inventaire,Mineur,9/8/2023
+708,Ventes,Mineur,9/9/2023
+709,Production,Critique,9/9/2023
+710,Production,Mineur,9/9/2023
+711,Comptabilit‚,Majeur,9/11/2023
+712,Ventes,Critique,9/11/2023
+713,Comptabilit‚,Majeur,9/11/2023
+714,Ventes,Majeur,9/11/2023
+715,Comptabilit‚,Critique,9/11/2023
+716,Ressources Humaines,Majeur,9/14/2023
+717,Production,Mineur,9/14/2023
+718,Production,Majeur,9/15/2023
+719,Comptabilit‚,Mineur,9/15/2023
+720,Ressources Humaines,Mineur,9/15/2023
+721,Inventaire,Mineur,9/15/2023
+722,Production,Mineur,9/16/2023
+723,Comptabilit‚,Majeur,9/16/2023
+724,Comptabilit‚,Critique,9/17/2023
+725,Production,Majeur,9/17/2023
+726,Inventaire,Mineur,9/18/2023
+727,Comptabilit‚,Majeur,9/18/2023
+728,Inventaire,Critique,9/19/2023
+729,Production,Mineur,9/19/2023
+730,Inventaire,Majeur,9/20/2023
+731,Production,Majeur,9/20/2023
+732,Ventes,Mineur,9/21/2023
+733,Comptabilit‚,Critique,9/21/2023
+734,Production,Critique,9/22/2023
+735,Production,Critique,9/22/2023
+736,Production,Mineur,9/23/2023
+737,Comptabilit‚,Mineur,9/23/2023
+738,Ressources Humaines,Majeur,9/24/2023
+739,Comptabilit‚,Critique,9/25/2023
+740,Inventaire,Mineur,9/26/2023
+741,Ressources Humaines,Majeur,9/26/2023
+742,Comptabilit‚,Critique,9/26/2023
+743,Ressources Humaines,Critique,9/26/2023
+744,Production,Mineur,9/26/2023
+745,Ventes,Mineur,9/28/2023
+746,Ventes,Majeur,9/28/2023
+747,Ventes,Mineur,9/28/2023
+748,Ressources Humaines,Majeur,9/29/2023
+749,Inventaire,Critique,9/29/2023
+750,Production,Critique,9/29/2023
+751,Comptabilit‚,Majeur,9/30/2023
+752,Comptabilit‚,Critique,10/1/2023
+753,Ressources Humaines,Mineur,10/1/2023
+754,Ressources Humaines,Critique,10/1/2023
+755,Production,Mineur,10/1/2023
+756,Comptabilit‚,Majeur,10/2/2023
+757,Ventes,Mineur,10/2/2023
+758,Comptabilit‚,Majeur,10/2/2023
+759,Comptabilit‚,Majeur,10/3/2023
+760,Production,Mineur,10/4/2023
+761,Production,Mineur,10/4/2023
+762,Ventes,Critique,10/6/2023
+763,Inventaire,Critique,10/7/2023
+764,Ressources Humaines,Majeur,10/7/2023
+765,Inventaire,Critique,10/7/2023
+766,Ventes,Mineur,10/8/2023
+767,Ressources Humaines,Critique,10/9/2023
+768,Ressources Humaines,Mineur,10/9/2023
+769,Ventes,Majeur,10/10/2023
+770,Ressources Humaines,Majeur,10/11/2023
+771,Ventes,Majeur,10/11/2023
+772,Inventaire,Mineur,10/11/2023
+773,Production,Critique,10/11/2023
+774,Ressources Humaines,Mineur,10/11/2023
+775,Production,Critique,10/11/2023
+776,Comptabilit‚,Critique,10/11/2023
+777,Production,Critique,10/12/2023
+778,Ventes,Critique,10/12/2023
+779,Comptabilit‚,Mineur,10/12/2023
+780,Inventaire,Critique,10/12/2023
+781,Ressources Humaines,Majeur,10/12/2023
+782,Ressources Humaines,Critique,10/12/2023
+783,Ventes,Critique,10/13/2023
+784,Production,Mineur,10/13/2023
+785,Production,Critique,10/13/2023
+786,Comptabilit‚,Majeur,10/13/2023
+787,Ressources Humaines,Majeur,10/14/2023
+788,Production,Mineur,10/16/2023
+789,Comptabilit‚,Mineur,10/16/2023
+790,Ressources Humaines,Majeur,10/17/2023
+791,Production,Mineur,10/17/2023
+792,Comptabilit‚,Majeur,10/18/2023
+793,Ressources Humaines,Mineur,10/18/2023
+794,Production,Majeur,10/18/2023
+795,Comptabilit‚,Critique,10/19/2023
+796,Production,Majeur,10/19/2023
+797,Comptabilit‚,Majeur,10/20/2023
+798,Production,Mineur,10/20/2023
+799,Ventes,Critique,10/20/2023
+800,Inventaire,Critique,10/21/2023
+801,Inventaire,Majeur,10/21/2023
+802,Inventaire,Mineur,10/22/2023
+803,Production,Mineur,10/22/2023
+804,Ressources Humaines,Majeur,10/23/2023
+805,Ressources Humaines,Majeur,10/23/2023
+806,Inventaire,Critique,10/24/2023
+807,Comptabilit‚,Majeur,10/25/2023
+808,Ressources Humaines,Majeur,10/25/2023
+809,Comptabilit‚,Critique,10/26/2023
+810,Inventaire,Mineur,10/26/2023
+811,Production,Mineur,10/26/2023
+812,Comptabilit‚,Critique,10/26/2023
+813,Inventaire,Critique,10/26/2023
+814,Ressources Humaines,Critique,10/26/2023
+815,Ventes,Critique,10/27/2023
+816,Ressources Humaines,Mineur,10/27/2023
+817,Comptabilit‚,Majeur,10/27/2023
+818,Inventaire,Mineur,10/28/2023
+819,Ventes,Critique,10/29/2023
+820,Production,Critique,10/29/2023
+821,Production,Mineur,10/29/2023
+822,Ventes,Mineur,10/30/2023
+823,Production,Majeur,10/30/2023
+824,Ressources Humaines,Mineur,10/30/2023
+825,Ventes,Critique,10/30/2023
+826,Ressources Humaines,Majeur,10/31/2023
+827,Comptabilit‚,Majeur,10/31/2023
+828,Production,Mineur,11/1/2023
+829,Production,Mineur,11/1/2023
+830,Ventes,Critique,11/1/2023
+831,Ventes,Majeur,11/1/2023
+832,Ressources Humaines,Critique,11/1/2023
+833,Ventes,Critique,11/2/2023
+834,Inventaire,Critique,11/2/2023
+835,Ventes,Mineur,11/2/2023
+836,Comptabilit‚,Critique,11/2/2023
+837,Inventaire,Majeur,11/2/2023
+838,Inventaire,Majeur,11/3/2023
+839,Inventaire,Majeur,11/4/2023
+840,Inventaire,Mineur,11/4/2023
+841,Production,Mineur,11/4/2023
+842,Inventaire,Mineur,11/4/2023
+843,Ressources Humaines,Mineur,11/5/2023
+844,Ventes,Mineur,11/5/2023
+845,Comptabilit‚,Mineur,11/5/2023
+846,Ressources Humaines,Mineur,11/6/2023
+847,Inventaire,Mineur,11/6/2023
+848,Inventaire,Mineur,11/7/2023
+849,Production,Critique,11/7/2023
+850,Comptabilit‚,Critique,11/7/2023
+851,Ressources Humaines,Mineur,11/7/2023
+852,Ventes,Majeur,11/8/2023
+853,Ressources Humaines,Mineur,11/8/2023
+854,Production,Critique,11/8/2023
+855,Ventes,Majeur,11/8/2023
+856,Ressources Humaines,Mineur,11/8/2023
+857,Inventaire,Majeur,11/9/2023
+858,Ventes,Mineur,11/10/2023
+859,Inventaire,Mineur,11/10/2023
+860,Ressources Humaines,Critique,11/10/2023
+861,Ressources Humaines,Majeur,11/13/2023
+862,Inventaire,Majeur,11/13/2023
+863,Ressources Humaines,Critique,11/13/2023
+864,Inventaire,Majeur,11/14/2023
+865,Ressources Humaines,Mineur,11/14/2023
+866,Inventaire,Critique,11/14/2023
+867,Inventaire,Majeur,11/14/2023
+868,Inventaire,Critique,11/14/2023
+869,Comptabilit‚,Critique,11/14/2023
+870,Production,Critique,11/15/2023
+871,Ressources Humaines,Critique,11/15/2023
+872,Ventes,Majeur,11/15/2023
+873,Production,Majeur,11/15/2023
+874,Production,Majeur,11/15/2023
+875,Inventaire,Majeur,11/16/2023
+876,Comptabilit‚,Critique,11/16/2023
+877,Ventes,Majeur,11/16/2023
+878,Ressources Humaines,Critique,11/16/2023
+879,Inventaire,Majeur,11/18/2023
+880,Inventaire,Majeur,11/18/2023
+881,Ressources Humaines,Majeur,11/18/2023
+882,Production,Majeur,11/18/2023
+883,Comptabilit‚,Majeur,11/18/2023
+884,Ressources Humaines,Critique,11/18/2023
+885,Production,Critique,11/18/2023
+886,Ressources Humaines,Mineur,11/19/2023
+887,Production,Critique,11/20/2023
+888,Comptabilit‚,Majeur,11/21/2023
+889,Ressources Humaines,Majeur,11/21/2023
+890,Ressources Humaines,Majeur,11/22/2023
+891,Production,Mineur,11/22/2023
+892,Comptabilit‚,Mineur,11/22/2023
+893,Ressources Humaines,Critique,11/23/2023
+894,Production,Majeur,11/23/2023
+895,Production,Critique,11/24/2023
+896,Production,Critique,11/24/2023
+897,Inventaire,Majeur,11/25/2023
+898,Production,Mineur,11/25/2023
+899,Comptabilit‚,Mineur,11/26/2023
+900,Inventaire,Critique,11/26/2023
+901,Ventes,Mineur,11/27/2023
+902,Inventaire,Critique,11/27/2023
+903,Ressources Humaines,Mineur,11/28/2023
+904,Ventes,Critique,11/28/2023
+905,Ventes,Critique,11/28/2023
+906,Production,Mineur,11/29/2023
+907,Ressources Humaines,Majeur,11/29/2023
+908,Ventes,Majeur,11/30/2023
+909,Comptabilit‚,Critique,11/30/2023
+910,Inventaire,Mineur,12/1/2023
+911,Comptabilit‚,Mineur,12/2/2023
+912,Ressources Humaines,Majeur,12/2/2023
+913,Ventes,Critique,12/2/2023
+914,Ressources Humaines,Majeur,12/2/2023
+915,Ressources Humaines,Mineur,12/3/2023
+916,Ressources Humaines,Mineur,12/3/2023
+917,Comptabilit‚,Mineur,12/3/2023
+918,Ressources Humaines,Mineur,12/4/2023
+919,Comptabilit‚,Critique,12/4/2023
+920,Ressources Humaines,Mineur,12/5/2023
+921,Production,Majeur,12/6/2023
+922,Inventaire,Majeur,12/6/2023
+923,Ressources Humaines,Mineur,12/6/2023
+924,Production,Majeur,12/6/2023
+925,Production,Mineur,12/7/2023
+926,Inventaire,Mineur,12/7/2023
+927,Ventes,Mineur,12/7/2023
+928,Ressources Humaines,Critique,12/7/2023
+929,Inventaire,Majeur,12/8/2023
+930,Ventes,Mineur,12/8/2023
+931,Comptabilit‚,Mineur,12/9/2023
+932,Comptabilit‚,Majeur,12/10/2023
+933,Production,Majeur,12/11/2023
+934,Ressources Humaines,Mineur,12/11/2023
+935,Ventes,Critique,12/12/2023
+936,Inventaire,Mineur,12/12/2023
+937,Ventes,Mineur,12/12/2023
+938,Inventaire,Majeur,12/12/2023
+939,Ressources Humaines,Majeur,12/12/2023
+940,Comptabilit‚,Critique,12/12/2023
+941,Comptabilit‚,Majeur,12/12/2023
+942,Production,Mineur,12/13/2023
+943,Inventaire,Critique,12/13/2023
+944,Ressources Humaines,Majeur,12/13/2023
+945,Ressources Humaines,Majeur,12/14/2023
+946,Ventes,Mineur,12/14/2023
+947,Comptabilit‚,Majeur,12/14/2023
+948,Ressources Humaines,Mineur,12/14/2023
+949,Inventaire,Majeur,12/14/2023
+950,Comptabilit‚,Critique,12/14/2023
+951,Ressources Humaines,Majeur,12/15/2023
+952,Comptabilit‚,Majeur,12/15/2023
+953,Ressources Humaines,Mineur,12/15/2023
+954,Production,Majeur,12/16/2023
+955,Comptabilit‚,Mineur,12/16/2023
+956,Comptabilit‚,Majeur,12/16/2023
+957,Comptabilit‚,Mineur,12/16/2023
+958,Production,Majeur,12/17/2023
+959,Inventaire,Critique,12/17/2023
+960,Comptabilit‚,Mineur,12/17/2023
+961,Comptabilit‚,Majeur,12/18/2023
+962,Ressources Humaines,Critique,12/18/2023
+963,Production,Mineur,12/18/2023
+964,Ventes,Mineur,12/19/2023
+965,Ventes,Mineur,12/19/2023
+966,Ressources Humaines,Majeur,12/19/2023
+967,Comptabilit‚,Mineur,12/20/2023
+968,Ventes,Majeur,12/20/2023
+969,Comptabilit‚,Majeur,12/20/2023
+970,Ventes,Majeur,12/20/2023
+971,Ventes,Majeur,12/20/2023
+972,Inventaire,Majeur,12/21/2023
+973,Ventes,Critique,12/21/2023
+974,Ventes,Mineur,12/22/2023
+975,Comptabilit‚,Mineur,12/22/2023
+976,Ressources Humaines,Mineur,12/23/2023
+977,Inventaire,Critique,12/23/2023
+978,Inventaire,Critique,12/24/2023
+979,Ressources Humaines,Mineur,12/26/2023
+980,Inventaire,Majeur,12/27/2023
+981,Comptabilit‚,Majeur,12/27/2023
+982,Comptabilit‚,Critique,12/27/2023
+983,Production,Mineur,12/27/2023
+984,Inventaire,Mineur,12/27/2023
+985,Ressources Humaines,Mineur,12/27/2023
+986,Inventaire,Critique,12/27/2023
+987,Comptabilit‚,Critique,12/28/2023
+988,Production,Mineur,12/28/2023
+989,Inventaire,Majeur,12/29/2023
+990,Inventaire,Mineur,12/29/2023
+991,Ventes,Majeur,12/29/2023
+992,Production,Critique,12/30/2023
+993,Ventes,Critique,12/30/2023
+994,Ressources Humaines,Mineur,12/30/2023
+995,Comptabilit‚,Majeur,12/31/2023
+996,Comptabilit‚,Critique,12/31/2023
+997,Ventes,Mineur,12/31/2023
+998,Inventaire,Majeur,1/1/2024
+999,Ressources Humaines,Critique,1/1/2024
+1000,Inventaire,Majeur,1/1/2024
